@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560309219 source:c:\users\gonza\desktop\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"Employee.h"
+	"get_string.h"
+
+1533133022 c:\users\gonza\desktop\tp3\win_32\linkedlist.h
+
+1560308682 c:\users\gonza\desktop\tp3\win_32\employee.h
+
+1560308933 source:c:\users\gonza\desktop\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+	<string.h>
+
+1560307854 source:c:\users\gonza\desktop\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560308045 source:c:\users\gonza\desktop\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+
+1533133022 c:\users\gonza\desktop\tp3\win_32\controller.h
+
+1533133022 c:\users\gonza\desktop\tp3\win_32\parser.h
+
+1558052656 c:\users\gonza\desktop\tp3\win_32\get_string.h
+
+1560297169 source:c:\users\gonza\desktop\tp3\win_32\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1560309220 source:d:\dabila\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"Employee.h"
+	"get_string.h"
+
+1533133022 d:\dabila\tp3\win_32\linkedlist.h
+
+1533133022 d:\dabila\tp3\win_32\parser.h
+
+1560308684 d:\dabila\tp3\win_32\employee.h
+
+1558052656 d:\dabila\tp3\win_32\get_string.h
+
+1560308934 source:d:\dabila\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+	<string.h>
+
+1533133022 d:\dabila\tp3\win_32\controller.h
+
+1560297170 source:d:\dabila\tp3\win_32\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1560310494 source:d:\dabila\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+
+1560307856 source:d:\dabila\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560309220 source:c:\users\gonza\desktop\tp3(todo char)\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"Employee.h"
+	"get_string.h"
+
+1533133022 c:\users\gonza\desktop\tp3(todo char)\win_32\linkedlist.h
+
+1533133022 c:\users\gonza\desktop\tp3(todo char)\win_32\parser.h
+
+1560308684 c:\users\gonza\desktop\tp3(todo char)\win_32\employee.h
+
+1558052656 c:\users\gonza\desktop\tp3(todo char)\win_32\get_string.h
+
+1560308934 source:c:\users\gonza\desktop\tp3(todo char)\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+	<string.h>
+
+1533133022 c:\users\gonza\desktop\tp3(todo char)\win_32\controller.h
+
+1560297170 source:c:\users\gonza\desktop\tp3(todo char)\win_32\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1560310494 source:c:\users\gonza\desktop\tp3(todo char)\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+
+1560307856 source:c:\users\gonza\desktop\tp3(todo char)\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560544663 source:c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"parser.h"
+	"Employee.h"
+	"get_string.h"
+	"Controller.h"
+	<string.h>
+
+1533133022 c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\linkedlist.h
+
+1533133022 c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\parser.h
+
+1560544726 c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\employee.h
+
+1560455320 c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\get_string.h
+
+1560544549 source:c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+	<string.h>
+
+1533133022 c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\controller.h
+
+1560518237 source:c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1560544694 source:c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+
+1560542147 source:c:\users\gonza\desktop\tp3(todo char) - copia1\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560545431 source:c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"parser.h"
+	"Employee.h"
+	"get_string.h"
+	"Controller.h"
+	<string.h>
+
+1533133022 c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\linkedlist.h
+
+1533133022 c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\parser.h
+
+1560545431 c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\employee.h
+
+1560455320 c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\get_string.h
+
+1533133022 c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\controller.h
+
+1560545964 source:c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+	<string.h>
+
+1560518237 source:c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1560544694 source:c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+
+1560542147 source:c:\users\gonza\desktop\tp3(todo char) - copia1.2\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560549976 source:c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"parser.h"
+	"Employee.h"
+	"get_string.h"
+	"Controller.h"
+	<string.h>
+
+1533133022 c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\linkedlist.h
+
+1533133022 c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\parser.h
+
+1560545431 c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\employee.h
+
+1560455320 c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\get_string.h
+
+1533133022 c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\controller.h
+
+1560545964 source:c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+	<string.h>
+
+1560549882 source:c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"get_string.h"
+
+1560542147 source:c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560549792 source:c:\users\gonza\desktop\tp3 copia1.2 del ultimo avance\win_32\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
