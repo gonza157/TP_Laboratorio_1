@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1557942529 source:c:\users\gonza\desktop\tp2_arrayemployeed(1\get_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1561387576 source:c:\users\gonza\desktop\tp2_arrayemployeed(1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"get_string.h"
+	"ArrayEmployees.h"
+
+1557942994 c:\users\gonza\desktop\tp2_arrayemployeed(1\get_strings.h
+
+1561344131 c:\users\gonza\desktop\tp2_arrayemployeed(1\arrayemployees.h
+
+1561387464 source:c:\users\gonza\desktop\tp2_arrayemployeed(1\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"get_string.h"
+
+1560549792 source:c:\users\gonza\desktop\tp2_arrayemployeed(1\get_string.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1560455320 c:\users\gonza\desktop\tp2_arrayemployeed(1\get_string.h
+
