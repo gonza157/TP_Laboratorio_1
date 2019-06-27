@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1561562975 source:c:\users\gonza\desktop\ejerciciopre2doparcialv2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561563846 t.h"
+
+1561562981 c:\users\gonza\desktop\ejerciciopre2doparcialv2\linkedlist.h
+
+1561569255 source:c:\users\gonza\desktop\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"linkedlist.h"
+	"Parser.h"
+
+1561569249 
+
+1561568891 c:\users\gonza\desktop\ejerciciopre2doparcialv2\empleado.h
+
+1561563846 c:\users\gonza\desktop\ejerciciopre2doparcialv2\parser.h
+	"linkedlist.h"
+
+1561569149 source:c:\users\gonza\desktop\ejerciciopre2doparcialv2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"linkedlist.h"
+	"Parser.h"
+
+1561569249 source:c:\users\gonza\desktop\ejerciciopre2doparcialv2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"linkedlist.h"
+	"Parser.h"
+
+1561592433 source:/home/alumno/Documentos/EjercicioPre2doParcialV2/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"linkedlist.h"
+	"Parser.h"
+
+1561592438 /home/alumno/Documentos/EjercicioPre2doParcialV2/Empleado.h
+
+1561592247 /home/alumno/Documentos/EjercicioPre2doParcialV2/linkedlist.h
+
+1561587234 /home/alumno/Documentos/EjercicioPre2doParcialV2/Parser.h
+	"linkedlist.h"
+
+1561592235 source:/home/alumno/Documentos/EjercicioPre2doParcialV2/linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedlist.h"
+
+1561592405 source:/home/alumno/Documentos/EjercicioPre2doParcialV2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"linkedlist.h"
+	"Parser.h"
+
+1561587983 source:/home/alumno/Documentos/EjercicioPre2doParcialV2/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"linkedlist.h"
+	"Parser.h"
+
